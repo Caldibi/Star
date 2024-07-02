@@ -1,0 +1,30 @@
+body {
+  background-image: url(1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body .btnDiv {
+  text-align: center;
+  display: none;
+}
+body .btnDiv .btn {
+  height: 70px;
+  width: 250px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 20px;
+}
+body .form-check {
+  display: flex;
+}
+body .form-check .form-check-label {
+  width: 170px;
+  margin-top: 50px;
+  padding-left: 3px;
+  color: white;
+}
+body .form-check .form-check-input {
+  margin-top: 55px;
+}/*# sourceMappingURL=style.css.map */

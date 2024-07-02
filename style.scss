@@ -1,0 +1,43 @@
+body {
+        
+        background-image: url(1.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+
+    .btnDiv {
+
+        text-align: center;
+        display: none;
+        .btn {
+            height: 70px;
+            width: 250px;
+            text-align: center;
+            border: 1px solid black;
+            margin: 20px;
+        }
+
+    }
+
+    .form-check {
+
+        display: flex;
+
+        .form-check-label {
+            width: 170px;
+            margin-top: 50px;
+            padding-left: 3px; 
+            color: white;  
+
+        }
+        .form-check-input {
+            
+            margin-top: 55px;
+
+        }
+
+
+    }
+
+}
